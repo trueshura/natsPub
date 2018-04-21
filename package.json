@@ -1,0 +1,9 @@
+{
+  "name": "natsPub",
+  "description": "simple NATS pub util",
+  "version": "0.0.1",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "tasu": "^4.1.1"
+  }
+}
